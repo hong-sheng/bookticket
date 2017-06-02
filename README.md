@@ -1,1 +1,3 @@
-# angular-theater
+# 點影院訂位系統
+
+##安裝
